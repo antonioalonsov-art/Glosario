@@ -1,0 +1,2592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260503191308LW1HV9</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260503191308CS8L0X</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Curso Competencia Digital Docente B2</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>La Biblioteca de Noreña</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Antonio Alonso Valdés</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Plantilla para elaborar una SdA para el alumno del Curso de Competencia Digital Docente B2. Bases de Datos - M.Access.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777828145047</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-moq0z43u-o1zkxbh69</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Bases de Datos</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Bases de Datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Bases de Datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moq0z43u-o1zkxbh69</odePageId>
+      <odeBlockId>block-1777117049782-kg52im8pj</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq0z43u-o1zkxbh69</odePageId>
+          <odeBlockId>block-1777117049782-kg52im8pj</odeBlockId>
+          <odeIdeviceId>idevice-1777117049773-6qvnw3n2r</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777117049773-6qvnw3n2r" title="" href="{{context_path}}/content/resources/a583e33b-496b-47e2-9f00-9b6f46fa5490.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/a583e33b-496b-47e2-9f00-9b6f46fa5490.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777117049773-6qvnw3n2r","img_0":{"img":"{{context_path}}/content/resources/a583e33b-496b-47e2-9f00-9b6f46fa5490.png","thumbnail":"{{context_path}}/content/resources/a583e33b-496b-47e2-9f00-9b6f46fa5490.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moq0z43v-ezsjygz0k</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>INTRODUCCIÓN</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INTRODUCCIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INTRODUCCIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moq0z43v-ezsjygz0k</odePageId>
+      <odeBlockId>block-1777117363199-j73psru3n</odeBlockId>
+      <blockName>Introducción</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq0z43v-ezsjygz0k</odePageId>
+          <odeBlockId>block-1777117363199-j73psru3n</odeBlockId>
+          <odeIdeviceId>idevice-1777117363191-oqxkz9dfg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Las bases de datos son una herramienta fundamental para la gestión eficiente de la información en las organizaciones, ya que permiten almacenar, organizar y recuperar datos de forma estructurada y segura. En el ámbito educativo, una base de datos facilita la gestión de servicios como la biblioteca del centro, permitiendo controlar fondos bibliográficos, usuarios y préstamos. A través de aplicaciones como Microsoft Access, es posible diseñar tablas relacionadas, realizar consultas, crear formularios e informes que optimizan el trabajo administrativo. A lo largo de esta situación de aprendizaje se estudiarán los conceptos básicos de las bases de datos y su aplicación práctica mediante la creación de una base de datos para la biblioteca del centro, dando respuesta a una necesidad real del entorno educativo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777117363191-oqxkz9dfg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Las bases de datos son una herramienta fundamental para la gestión eficiente de la información en las organizaciones, ya que permiten almacenar, organizar y recuperar datos de forma estructurada y segura. En el ámbito educativo, una base de datos facilita la gestión de servicios como la biblioteca del centro, permitiendo controlar fondos bibliográficos, usuarios y préstamos. A través de aplicaciones como Microsoft Access, es posible diseñar tablas relacionadas, realizar consultas, crear formularios e informes que optimizan el trabajo administrativo. A lo largo de esta situación de aprendizaje se estudiarán los conceptos básicos de las bases de datos y su aplicación práctica mediante la creación de una base de datos para la biblioteca del centro, dando respuesta a una necesidad real del entorno educativo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moq0z43v-ezsjygz0k</odePageId>
+      <odeBlockId>block-1777117393575-wuzsbcf2z</odeBlockId>
+      <blockName>Objetivos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq0z43v-ezsjygz0k</odePageId>
+          <odeBlockId>block-1777117393575-wuzsbcf2z</odeBlockId>
+          <odeIdeviceId>idevice-1777117393573-eumvsz75y</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Conocer qué es una base de datos y para qué se utiliza en un contexto real.</li>
+<li>Aprender cómo se introducen y gestionan datos en una base de datos mediante Microsoft Access.</li>
+<li>Crear una base de datos para la gestión de la biblioteca del centro.</li>
+<li>Realizar una infografía digital para explicar cómo introducir nuevos títulos en la base de datos.</li>
+<li>Elaborar un vídeo donde el alumnado explique el uso de la base de datos de la biblioteca creada.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777117393573-eumvsz75y","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Conocer qué es una base de datos y para qué se utiliza en un contexto real.</li>\n<li>Aprender cómo se introducen y gestionan datos en una base de datos mediante Microsoft Access.</li>\n<li>Crear una base de datos para la gestión de la biblioteca del centro.</li>\n<li>Realizar una infografía digital para explicar cómo introducir nuevos títulos en la base de datos.</li>\n<li>Elaborar un vídeo donde el alumnado explique el uso de la base de datos de la biblioteca creada.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moq0z43v-ezsjygz0k</odePageId>
+      <odeBlockId>block-1777117671993-1uctc527a</odeBlockId>
+      <blockName>Duración</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq0z43v-ezsjygz0k</odePageId>
+          <odeBlockId>block-1777117671993-1uctc527a</odeBlockId>
+          <odeIdeviceId>idevice-1777117671989-gab2gijun</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>5 Sesiones compuestas de dos bloques de 55 minutos cada una. Cada sesión 110 minutos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777117671989-gab2gijun","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>5 Sesiones compuestas de dos bloques de 55 minutos cada una. Cada sesión 110 minutos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moq0z43v-ezsjygz0k</odePageId>
+      <odeBlockId>block-1777131739038-vlfr9wwwd</odeBlockId>
+      <blockName>Herramientas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq0z43v-ezsjygz0k</odePageId>
+          <odeBlockId>block-1777131739038-vlfr9wwwd</odeBlockId>
+          <odeIdeviceId>idevice-1777131739028-61xllb958</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Para docentes</strong></p>
+<ul>
+<li>eXeLearning</li>
+<li>Grupo de Teams</li>
+<li>Rúbricas digitales (CoRubrics)</li>
+<li>Genially / Canva para ejemplos</li>
+</ul>
+<p><strong>Para alumnado</strong></p>
+<ul>
+<li>Canva, Genially, Piktochart (infografía)</li>
+<li>CapCut, Clipchamp, OpenShot (vídeo)</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777131739028-61xllb958","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Para docentes</strong></p>\n<ul>\n<li>eXeLearning</li>\n<li>Grupo de Teams</li>\n<li>Rúbricas digitales (CoRubrics)</li>\n<li>Genially / Canva para ejemplos</li>\n</ul>\n<p><strong>Para alumnado</strong></p>\n<ul>\n<li>Canva, Genially, Piktochart (infografía)</li>\n<li>CapCut, Clipchamp, OpenShot (vídeo)</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moq0z43v-ezsjygz0k</odePageId>
+      <odeBlockId>block-1777131939044-uevxobl78</odeBlockId>
+      <blockName>Productos finales</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq0z43v-ezsjygz0k</odePageId>
+          <odeBlockId>block-1777131939044-uevxobl78</odeBlockId>
+          <odeIdeviceId>idevice-1777131939040-2e34zzyu7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Producto 1</strong>. Infografía sobre cómo introducir nuevos títulos en la base de datos.</p>
+<p><strong>Producto 2</strong>. Creación de un vídeo sobre cómo usar la base de datos de la biblioteca del centro que han creado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777131939040-2e34zzyu7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Producto 1</strong>. Infografía sobre cómo introducir nuevos títulos en la base de datos.</p>\n<p><strong>Producto 2</strong>. Creación de un vídeo sobre cómo usar la base de datos de la biblioteca del centro que han creado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moq0z43v-ezsjygz0k</odePageId>
+      <odeBlockId>block-1777132045860-tcwq80vtz</odeBlockId>
+      <blockName>Evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq0z43v-ezsjygz0k</odePageId>
+          <odeBlockId>block-1777132045860-tcwq80vtz</odeBlockId>
+          <odeIdeviceId>idevice-1777132045857-smhoowy6k</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La evaluación de los productos finales se realizará mediante <strong>rúbricas </strong>para la infografía interactiva y el vídeo explicativo, valorando la corrección de los contenidos, el uso adecuado de Microsoft Access, la claridad en la comunicación y la calidad del producto digital. Asimismo, se utilizará una <strong>lista de cotejo </strong>para comprobar el correcto funcionamiento de la base de datos de la biblioteca del centro.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777132045857-smhoowy6k","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La evaluación de los productos finales se realizará mediante <strong>rúbricas </strong>para la infografía interactiva y el vídeo explicativo, valorando la corrección de los contenidos, el uso adecuado de Microsoft Access, la claridad en la comunicación y la calidad del producto digital. Asimismo, se utilizará una <strong>lista de cotejo </strong>para comprobar el correcto funcionamiento de la base de datos de la biblioteca del centro.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moq0z43v-ezsjygz0k</odePageId>
+      <odeBlockId>block-1777828152372-1tbsqffzz</odeBlockId>
+      <blockName>Diccionario de términos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>6</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq0z43v-ezsjygz0k</odePageId>
+          <odeBlockId>block-1777828152372-1tbsqffzz</odeBlockId>
+          <odeIdeviceId>idevice-1777828152370-g58i883mm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>
+<p><strong>Tablas:</strong> son la estructura principal de la base de datos y se organizan en filas y columnas. Cada tabla almacena información sobre un mismo tipo de elemento. Por ejemplo, en una base de datos de una biblioteca pueden existir tablas como Libros, Usuarios o Préstamos. Cada tabla contiene datos homogéneos y cumple una función concreta dentro del sistema.</p>
+</li>
+<li>
+<p><strong>Campos:</strong> son las columnas de una tabla y representan los distintos datos que se desean registrar. En la tabla Libros, algunos campos habituales pueden ser título, autor, ISBN, editorial o año de publicación. La correcta definición de los campos y de su tipo de dato es fundamental para garantizar la calidad y coherencia de la información almacenada.</p>
+</li>
+<li>
+<p><strong>Registros:</strong> corresponden a cada una de las filas de una tabla y representan un elemento concreto. Por ejemplo, cada libro registrado en la biblioteca constituye un registro dentro de la tabla Libros. Cada registro contiene información completa sobre un elemento y se identifica mediante un valor único.</p>
+</li>
+<li>
+<p><strong>Relaciones:</strong> permiten vincular la información entre distintas tablas a través de campos comunes. Gracias a las relaciones es posible, por ejemplo, asociar un préstamo con un libro concreto y con una persona usuaria determinada. El uso de relaciones evita la repetición innecesaria de datos y facilita una gestión más ordenada y eficiente de la información.</p>
+</li>
+<li>
+<p>La <strong>clave primaria o principal</strong> es un campo que identifica de manera única cada registro dentro de una tabla. Este valor no se repite y no puede quedar vacío, lo que garantiza que cada elemento registrado sea diferente del resto. Por ejemplo, en una base de datos de una biblioteca, cada libro puede identificarse mediante un código único o un número de registro.</p>
+</li>
+<li>
+<p>La <strong>clave secundaria o foránea</strong> es un campo que permite relacionar una tabla con otra, ya que hace referencia a la clave primaria de otra tabla. Gracias a las claves foráneas es posible vincular información, como asociar un préstamo a un libro concreto y a una persona usuaria determinada. El uso correcto de estas claves es esencial para mantener la coherencia y fiabilidad de la base de datos.</p>
+</li>
+<li>
+<p>Las <strong>consultas</strong> permiten seleccionar y mostrar información específica almacenada en una base de datos, facilitando su análisis y uso en contextos administrativos reales. A través de las consultas es posible filtrar datos, ordenar la información y obtener resultados concretos a partir de uno o varios criterios.</p>
+</li>
+<li>
+<p>Los <strong>formularios</strong> son una herramienta que facilita la introducción y modificación de datos en una base de datos, ya que presentan la información de forma clara y estructurada, reduciendo errores y agilizando el trabajo.</p>
+</li>
+<li>
+<p>Los <strong>informes</strong> son una herramienta que permite presentar información de la base de datos de forma ordenada, clara y con un formato profesional. A diferencia de las tablas (que están pensadas para almacenar datos) o las consultas (que sirven para filtrar y seleccionar información), los informes se utilizan para mostrar resultados de manera comprensible, lista para imprimir o compartir.</p>
+</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777828152370-g58i883mm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>\n<p><strong>Tablas:</strong> son la estructura principal de la base de datos y se organizan en filas y columnas. Cada tabla almacena información sobre un mismo tipo de elemento. Por ejemplo, en una base de datos de una biblioteca pueden existir tablas como Libros, Usuarios o Préstamos. Cada tabla contiene datos homogéneos y cumple una función concreta dentro del sistema.</p>\n</li>\n<li>\n<p><strong>Campos:</strong> son las columnas de una tabla y representan los distintos datos que se desean registrar. En la tabla Libros, algunos campos habituales pueden ser título, autor, ISBN, editorial o año de publicación. La correcta definición de los campos y de su tipo de dato es fundamental para garantizar la calidad y coherencia de la información almacenada.</p>\n</li>\n<li>\n<p><strong>Registros:</strong> corresponden a cada una de las filas de una tabla y representan un elemento concreto. Por ejemplo, cada libro registrado en la biblioteca constituye un registro dentro de la tabla Libros. Cada registro contiene información completa sobre un elemento y se identifica mediante un valor único.</p>\n</li>\n<li>\n<p><strong>Relaciones:</strong> permiten vincular la información entre distintas tablas a través de campos comunes. Gracias a las relaciones es posible, por ejemplo, asociar un préstamo con un libro concreto y con una persona usuaria determinada. El uso de relaciones evita la repetición innecesaria de datos y facilita una gestión más ordenada y eficiente de la información.</p>\n</li>\n<li>\n<p>La <strong>clave primaria o principal</strong> es un campo que identifica de manera única cada registro dentro de una tabla. Este valor no se repite y no puede quedar vacío, lo que garantiza que cada elemento registrado sea diferente del resto. Por ejemplo, en una base de datos de una biblioteca, cada libro puede identificarse mediante un código único o un número de registro.</p>\n</li>\n<li>\n<p>La <strong>clave secundaria o foránea</strong> es un campo que permite relacionar una tabla con otra, ya que hace referencia a la clave primaria de otra tabla. Gracias a las claves foráneas es posible vincular información, como asociar un préstamo a un libro concreto y a una persona usuaria determinada. El uso correcto de estas claves es esencial para mantener la coherencia y fiabilidad de la base de datos.</p>\n</li>\n<li>\n<p>Las <strong>consultas</strong> permiten seleccionar y mostrar información específica almacenada en una base de datos, facilitando su análisis y uso en contextos administrativos reales. A través de las consultas es posible filtrar datos, ordenar la información y obtener resultados concretos a partir de uno o varios criterios.</p>\n</li>\n<li>\n<p>Los <strong>formularios</strong> son una herramienta que facilita la introducción y modificación de datos en una base de datos, ya que presentan la información de forma clara y estructurada, reduciendo errores y agilizando el trabajo.</p>\n</li>\n<li>\n<p>Los <strong>informes</strong> son una herramienta que permite presentar información de la base de datos de forma ordenada, clara y con un formato profesional. A diferencia de las tablas (que están pensadas para almacenar datos) o las consultas (que sirven para filtrar y seleccionar información), los informes se utilizan para mostrar resultados de manera comprensible, lista para imprimir o compartir.</p>\n</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moq0z43w-um94yrkdn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SESIÓN 1: Introducción a las bases de datos y Access</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 1: Introducción a las bases de datos y Access</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 1: Introducción a las bases de datos y Access</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moq0z43w-um94yrkdn</odePageId>
+      <odeBlockId>block-1777132295367-1v1aa64l7</odeBlockId>
+      <blockName>Objetivos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq0z43w-um94yrkdn</odePageId>
+          <odeBlockId>block-1777132295367-1v1aa64l7</odeBlockId>
+          <odeIdeviceId>idevice-1777132295362-xktx9cfvu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Concepto de base de datos y usos en la empresa.</li>
+<li>Interfaz de Microsoft Access.</li>
+<li>Creación de tablas y tipos de datos.</li>
+<li>Actividad práctica guiada.</li>
+</ul>
+<p>Presentación de la Situación de Aprendizaje y del reto final: <strong>diseñar una base de datos para la gestión de la biblioteca del centro</strong>, así como de los <strong>productos finales </strong>que elaborará el alumnado: una <strong>infografía interactiva</strong> sobre cómo introducir nuevos títulos en la base de datos y un <strong>vídeo explicativo</strong> sobre el uso de la base de datos creada.</p>
+<p>Activación de conocimientos previos mediante preguntas guiadas sobre la gestión de la información y las diferencias entre hojas de cálculo y bases de datos. Explicación teórica de los conceptos básicos de base de datos y su aplicación en contextos administrativos y educativos. Introducción a la interfaz de Microsoft Access: cinta de opciones y objetos principales (tablas, consultas, formularios e informes). Demostración guiada por parte del docente de la creación de una base de datos y de una primera tabla, explicando los tipos de datos más habituales. Realización de una actividad práctica guiada en la que el alumnado crea su primera tabla siguiendo instrucciones paso a paso. Atención a la diversidad mediante apoyos visuales, explicaciones secuenciadas y ritmo flexible de trabajo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777132295362-xktx9cfvu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Concepto de base de datos y usos en la empresa.</li>\n<li>Interfaz de Microsoft Access.</li>\n<li>Creación de tablas y tipos de datos.</li>\n<li>Actividad práctica guiada.</li>\n</ul>\n<p>Presentación de la Situación de Aprendizaje y del reto final: <strong>diseñar una base de datos para la gestión de la biblioteca del centro</strong>, así como de los <strong>productos finales </strong>que elaborará el alumnado: una <strong>infografía interactiva</strong> sobre cómo introducir nuevos títulos en la base de datos y un <strong>vídeo explicativo</strong> sobre el uso de la base de datos creada.</p>\n<p>Activación de conocimientos previos mediante preguntas guiadas sobre la gestión de la información y las diferencias entre hojas de cálculo y bases de datos. Explicación teórica de los conceptos básicos de base de datos y su aplicación en contextos administrativos y educativos. Introducción a la interfaz de Microsoft Access: cinta de opciones y objetos principales (tablas, consultas, formularios e informes). Demostración guiada por parte del docente de la creación de una base de datos y de una primera tabla, explicando los tipos de datos más habituales. Realización de una actividad práctica guiada en la que el alumnado crea su primera tabla siguiendo instrucciones paso a paso. Atención a la diversidad mediante apoyos visuales, explicaciones secuenciadas y ritmo flexible de trabajo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moq0z43w-um94yrkdn</odePageId>
+      <odeBlockId>block-1777133058684-drt6bj8bf</odeBlockId>
+      <blockName>1. Las Bases de Datos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq0z43w-um94yrkdn</odePageId>
+          <odeBlockId>block-1777133058684-drt6bj8bf</odeBlockId>
+          <odeIdeviceId>idevice-1777133058680-wgg92ajzd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Las <strong>bases de datos </strong>son sistemas que permiten almacenar, organizar y gestionar información de forma estructurada con el objetivo de facilitar su uso y recuperación. En el ámbito administrativo y educativo, una base de datos se utiliza para gestionar grandes volúmenes de datos de manera eficiente, por ejemplo, el catálogo y los préstamos de una biblioteca.</p>
+<p>En el diseño de una base de datos se pueden distinguir <strong>tres niveles </strong>fundamentales: nivel <strong>conceptual,</strong> nivel <strong>lógico</strong> y nivel <strong>físico.</strong></p>
+<p>El <strong>nivel conceptual</strong> define <strong>qué información se necesita</strong> y cómo se relaciona, sin entrar en aspectos técnicos. En el caso de una biblioteca, incluye elementos como libros, usuarios y préstamos, así como las relaciones entre ellos.</p>
+<p>El <strong>nivel lógico</strong> describe <strong>cómo se estructura la información</strong> dentro de la base de datos. En este nivel se diseñan las tablas, los campos, las claves primarias y las relaciones entre tablas. Por ejemplo, una tabla de libros con sus datos (título, autor, ISBN) relacionada con una tabla de préstamos.</p>
+<p>El <strong>nivel físico</strong> hace referencia a <strong>cómo se almacenan los datos </strong>en el sistema informático y al software utilizado para gestionarlos. En esta situación de aprendizaje, el nivel físico se materializa mediante el uso de <strong>Microsoft Access </strong>como sistema de gestión de bases de datos.</p>
+<p>Uno de los aspectos clave en el diseño de una base de datos es garantizar su <strong>calidad y mantenimiento a lo largo del tiempo</strong>. Al igual que los productos evolucionan, las bases de datos deben adaptarse a nuevas necesidades, como la incorporación de nuevos títulos, usuarios o funcionalidades. Factores como el crecimiento del volumen de datos, la actualización de la información o los cambios en las necesidades del centro influyen directamente en la evolución y mejora de la base de datos.</p>
+<p><br /></p>
+<p><img src="{{context_path}}/content/resources/foto access.png" width="861" height="396" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777133058680-wgg92ajzd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Las <strong>bases de datos </strong>son sistemas que permiten almacenar, organizar y gestionar información de forma estructurada con el objetivo de facilitar su uso y recuperación. En el ámbito administrativo y educativo, una base de datos se utiliza para gestionar grandes volúmenes de datos de manera eficiente, por ejemplo, el catálogo y los préstamos de una biblioteca.</p>\n<p>En el diseño de una base de datos se pueden distinguir <strong>tres niveles </strong>fundamentales: nivel <strong>conceptual,</strong> nivel <strong>lógico</strong> y nivel <strong>físico.</strong></p>\n<p>El <strong>nivel conceptual</strong> define <strong>qué información se necesita</strong> y cómo se relaciona, sin entrar en aspectos técnicos. En el caso de una biblioteca, incluye elementos como libros, usuarios y préstamos, así como las relaciones entre ellos.</p>\n<p>El <strong>nivel lógico</strong> describe <strong>cómo se estructura la información</strong> dentro de la base de datos. En este nivel se diseñan las tablas, los campos, las claves primarias y las relaciones entre tablas. Por ejemplo, una tabla de libros con sus datos (título, autor, ISBN) relacionada con una tabla de préstamos.</p>\n<p>El <strong>nivel físico</strong> hace referencia a <strong>cómo se almacenan los datos </strong>en el sistema informático y al software utilizado para gestionarlos. En esta situación de aprendizaje, el nivel físico se materializa mediante el uso de <strong>Microsoft Access </strong>como sistema de gestión de bases de datos.</p>\n<p>Uno de los aspectos clave en el diseño de una base de datos es garantizar su <strong>calidad y mantenimiento a lo largo del tiempo</strong>. Al igual que los productos evolucionan, las bases de datos deben adaptarse a nuevas necesidades, como la incorporación de nuevos títulos, usuarios o funcionalidades. Factores como el crecimiento del volumen de datos, la actualización de la información o los cambios en las necesidades del centro influyen directamente en la evolución y mejora de la base de datos.</p>\n<p><br /></p>\n<p><img src=\"{{context_path}}/content/resources/foto access.png\" width=\"861\" height=\"396\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moq0z43w-um94yrkdn</odePageId>
+      <odeBlockId>block-1777134019609-r37nmm8e1</odeBlockId>
+      <blockName>2. Elementos de las Bases de Datos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq0z43w-um94yrkdn</odePageId>
+          <odeBlockId>block-1777134019609-r37nmm8e1</odeBlockId>
+          <odeIdeviceId>idevice-1777134019606-dyzv166k3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En una <strong>base de datos relacional</strong>, como las creadas con <strong>Microsoft Access</strong>, se distinguen varios elementos fundamentales que permiten organizar la información de forma estructurada y eficiente. Estos elementos hacen posible almacenar datos relacionados entre sí, facilitar su consulta y evitar errores o duplicidades en la información.</p>
+<ul>
+<li><strong>Tablas</strong>: son la estructura principal de la base de datos y se organizan en filas y columnas. Cada tabla almacena información sobre un mismo tipo de elemento. Por ejemplo, en una base de datos de una biblioteca pueden existir tablas como Libros, Usuarios o Préstamos. Cada tabla contiene datos homogéneos y cumple una función concreta dentro del sistema.</li>
+<li><strong>Campos</strong>: son las columnas de una tabla y representan los distintos datos que se desean registrar. En la tabla Libros, algunos campos habituales pueden ser título, autor, ISBN, editorial o año de publicación. La correcta definición de los campos y de su tipo de dato es fundamental para garantizar la calidad y coherencia de la información almacenada.</li>
+<li><strong>Registros</strong>: corresponden a cada una de las filas de una tabla y representan un elemento concreto. Por ejemplo, cada libro registrado en la biblioteca constituye un registro dentro de la tabla Libros. Cada registro contiene información completa sobre un elemento y se identifica mediante un valor único.</li>
+<li><strong>Relaciones</strong>: permiten vincular la información entre distintas tablas a través de campos comunes. Gracias a las relaciones es posible, por ejemplo, asociar un préstamo con un libro concreto y con una persona usuaria determinada. El uso de relaciones evita la repetición innecesaria de datos y facilita una gestión más ordenada y eficiente de la información.<br /><br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777134019606-dyzv166k3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En una <strong>base de datos relacional</strong>, como las creadas con <strong>Microsoft Access</strong>, se distinguen varios elementos fundamentales que permiten organizar la información de forma estructurada y eficiente. Estos elementos hacen posible almacenar datos relacionados entre sí, facilitar su consulta y evitar errores o duplicidades en la información.</p>\n<ul>\n<li><strong>Tablas</strong>: son la estructura principal de la base de datos y se organizan en filas y columnas. Cada tabla almacena información sobre un mismo tipo de elemento. Por ejemplo, en una base de datos de una biblioteca pueden existir tablas como Libros, Usuarios o Préstamos. Cada tabla contiene datos homogéneos y cumple una función concreta dentro del sistema.</li>\n<li><strong>Campos</strong>: son las columnas de una tabla y representan los distintos datos que se desean registrar. En la tabla Libros, algunos campos habituales pueden ser título, autor, ISBN, editorial o año de publicación. La correcta definición de los campos y de su tipo de dato es fundamental para garantizar la calidad y coherencia de la información almacenada.</li>\n<li><strong>Registros</strong>: corresponden a cada una de las filas de una tabla y representan un elemento concreto. Por ejemplo, cada libro registrado en la biblioteca constituye un registro dentro de la tabla Libros. Cada registro contiene información completa sobre un elemento y se identifica mediante un valor único.</li>\n<li><strong>Relaciones</strong>: permiten vincular la información entre distintas tablas a través de campos comunes. Gracias a las relaciones es posible, por ejemplo, asociar un préstamo con un libro concreto y con una persona usuaria determinada. El uso de relaciones evita la repetición innecesaria de datos y facilita una gestión más ordenada y eficiente de la información.<br /><br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moq0z43w-um94yrkdn</odePageId>
+      <odeBlockId>block-1777134454700-183tp3g5l</odeBlockId>
+      <blockName>3. Tipos de Bases y usos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq0z43w-um94yrkdn</odePageId>
+          <odeBlockId>block-1777134454700-183tp3g5l</odeBlockId>
+          <odeIdeviceId>idevice-1777134454692-hwr8dtp4c</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Existen distintos tipos de bases de datos según su finalidad, tamaño y nivel de complejidad. La elección de un tipo u otro depende de las necesidades de gestión de la información y del contexto en el que se vaya a utilizar.</p>
+<ul>
+<li><strong>Bases de datos personales o locales</strong>: se utilizan para gestionar información en un solo equipo o en pequeños entornos de trabajo. Son habituales en contextos educativos o administrativos sencillos y permiten un manejo directo y accesible de los datos. Un ejemplo de este tipo de bases de datos es Microsoft Access, que facilita la creación de tablas, consultas, formularios e informes sin necesidad de conocimientos avanzados de programación.</li>
+<li><br /><strong>Bases de datos corporativas</strong>: están diseñadas para gestionar grandes volúmenes de información y suelen ser utilizadas por empresas y organizaciones de mayor tamaño. Permiten el acceso simultáneo de múltiples personas usuarias y requieren sistemas de gestión más complejos y servidores específicos para garantizar la seguridad y el rendimiento.</li>
+</ul>
+<p><br /><strong>En esta situación de aprendizaje se trabajará con una base de datos local</strong>, diseñada específicamente para la gestión de la biblioteca del centro, ya que se adapta a las necesidades planteadas y permite al alumnado comprender de forma práctica los fundamentos del tratamiento de la información.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777134454692-hwr8dtp4c","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Existen distintos tipos de bases de datos según su finalidad, tamaño y nivel de complejidad. La elección de un tipo u otro depende de las necesidades de gestión de la información y del contexto en el que se vaya a utilizar.</p>\n<ul>\n<li><strong>Bases de datos personales o locales</strong>: se utilizan para gestionar información en un solo equipo o en pequeños entornos de trabajo. Son habituales en contextos educativos o administrativos sencillos y permiten un manejo directo y accesible de los datos. Un ejemplo de este tipo de bases de datos es Microsoft Access, que facilita la creación de tablas, consultas, formularios e informes sin necesidad de conocimientos avanzados de programación.</li>\n<li><br /><strong>Bases de datos corporativas</strong>: están diseñadas para gestionar grandes volúmenes de información y suelen ser utilizadas por empresas y organizaciones de mayor tamaño. Permiten el acceso simultáneo de múltiples personas usuarias y requieren sistemas de gestión más complejos y servidores específicos para garantizar la seguridad y el rendimiento.</li>\n</ul>\n<p><br /><strong>En esta situación de aprendizaje se trabajará con una base de datos local</strong>, diseñada específicamente para la gestión de la biblioteca del centro, ya que se adapta a las necesidades planteadas y permite al alumnado comprender de forma práctica los fundamentos del tratamiento de la información.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moq0z43w-um94yrkdn</odePageId>
+      <odeBlockId>block-1777134523015-xbs89fc5u</odeBlockId>
+      <blockName>4. Evolución y mantenimiento de una base de datos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq0z43w-um94yrkdn</odePageId>
+          <odeBlockId>block-1777134523015-xbs89fc5u</odeBlockId>
+          <odeIdeviceId>idevice-1777134523013-3tgdqdkya</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Una base de datos no es un sistema estático, sino que <strong>evoluciona y se adapta con el tiempo</strong> a las necesidades de la organización que la utiliza. En el caso de una biblioteca, será necesario incorporar nuevos títulos, actualizar la información existente, eliminar registros obsoletos o modificar la estructura de la base de datos para mejorar su funcionamiento.</p>
+<p><br />El crecimiento del volumen de datos, los cambios en el uso del servicio o la incorporación de nuevas funcionalidades influyen directamente en la evolución de la base de datos. Por este motivo, es fundamental realizar un mantenimiento periódico que garantice la coherencia, actualización y fiabilidad de la información almacenada. Un buen diseño inicial facilita estas tareas y permite que la base de datos siga siendo útil y eficiente a lo largo del tiempo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777134523013-3tgdqdkya","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Una base de datos no es un sistema estático, sino que <strong>evoluciona y se adapta con el tiempo</strong> a las necesidades de la organización que la utiliza. En el caso de una biblioteca, será necesario incorporar nuevos títulos, actualizar la información existente, eliminar registros obsoletos o modificar la estructura de la base de datos para mejorar su funcionamiento.</p>\n<p><br />El crecimiento del volumen de datos, los cambios en el uso del servicio o la incorporación de nuevas funcionalidades influyen directamente en la evolución de la base de datos. Por este motivo, es fundamental realizar un mantenimiento periódico que garantice la coherencia, actualización y fiabilidad de la información almacenada. Un buen diseño inicial facilita estas tareas y permite que la base de datos siga siendo útil y eficiente a lo largo del tiempo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moq0z43w-um94yrkdn</odePageId>
+      <odeBlockId>block-1777134626275-5lmalll5r</odeBlockId>
+      <blockName>5. ¿Qué vais a hacer en esta situación de aprendizaje?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq0z43w-um94yrkdn</odePageId>
+          <odeBlockId>block-1777134626275-5lmalll5r</odeBlockId>
+          <odeIdeviceId>idevice-1777134626271-3wjdaw6fa</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta situación de aprendizaje vais a trabajar con bases de datos y aprenderéis a utilizar Microsoft Access para crear una base de datos real destinada a la <strong>biblioteca del centro</strong>. A lo largo de las sesiones iréis diseñando y mejorando la base de datos, aprendiendo a introducir información, organizarla correctamente y utilizarla de forma práctica.</p>
+<p><br />Al finalizar el proyecto, elaboraréis <strong>dos productos finales </strong>que os permitirán demostrar lo aprendido y crear recursos útiles para el centro.</p>
+<p><strong>Producto final 1: Infografía interactiva</strong><br />Realizaréis una <strong>infografía digital</strong> en la que explicaréis, de forma clara y visual, <strong>cómo se introducen nuevos libros en la base de datos de la biblioteca</strong>. En la infografía se mostrarán los pasos que hay que seguir en Microsoft Access para añadir correctamente la información, de manera que cualquier persona pueda entender cómo hacerlo.</p>
+<p><strong>Producto final 2: Vídeo explicativo</strong><br />Elaboraréis un vídeo en el que explicaréis<strong> cómo funciona la base de datos</strong> de la biblioteca que habéis creado. En el vídeo mostraréis su uso básico y para qué sirve, ayudando a comprender cómo se puede utilizar para <strong>gestionar los libros y los préstamos</strong>.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777134626271-3wjdaw6fa","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta situación de aprendizaje vais a trabajar con bases de datos y aprenderéis a utilizar Microsoft Access para crear una base de datos real destinada a la <strong>biblioteca del centro</strong>. A lo largo de las sesiones iréis diseñando y mejorando la base de datos, aprendiendo a introducir información, organizarla correctamente y utilizarla de forma práctica.</p>\n<p><br />Al finalizar el proyecto, elaboraréis <strong>dos productos finales </strong>que os permitirán demostrar lo aprendido y crear recursos útiles para el centro.</p>\n<p><strong>Producto final 1: Infografía interactiva</strong><br />Realizaréis una <strong>infografía digital</strong> en la que explicaréis, de forma clara y visual, <strong>cómo se introducen nuevos libros en la base de datos de la biblioteca</strong>. En la infografía se mostrarán los pasos que hay que seguir en Microsoft Access para añadir correctamente la información, de manera que cualquier persona pueda entender cómo hacerlo.</p>\n<p><strong>Producto final 2: Vídeo explicativo</strong><br />Elaboraréis un vídeo en el que explicaréis<strong> cómo funciona la base de datos</strong> de la biblioteca que habéis creado. En el vídeo mostraréis su uso básico y para qué sirve, ayudando a comprender cómo se puede utilizar para <strong>gestionar los libros y los préstamos</strong>.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moq0z43w-4lj0ir2j9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SESIÓN 2: Diseño y relación entre tablas</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 2: Diseño y relación entre tablas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 2: Diseño y relación entre tablas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moq0z43w-4lj0ir2j9</odePageId>
+      <odeBlockId>block-1777366494615-1bi1pfgc9</odeBlockId>
+      <blockName>Objetivos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq0z43w-4lj0ir2j9</odePageId>
+          <odeBlockId>block-1777366494615-1bi1pfgc9</odeBlockId>
+          <odeIdeviceId>idevice-1777366494610-ktudx5ofl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Conocer el uso de claves primarias y foráneas en el diseño de bases de datos.</li>
+<li>Establecer relaciones adecuadas entre tablas.</li>
+<li>Aplicar principios básicos de normalización.</li>
+<li>Diseñar la estructura de la base de datos del proyecto en Microsoft Access.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777366494610-ktudx5ofl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Conocer el uso de claves primarias y foráneas en el diseño de bases de datos.</li>\n<li>Establecer relaciones adecuadas entre tablas.</li>\n<li>Aplicar principios básicos de normalización.</li>\n<li>Diseñar la estructura de la base de datos del proyecto en Microsoft Access.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moq0z43w-4lj0ir2j9</odePageId>
+      <odeBlockId>block-1777366827494-oiqlup2x7</odeBlockId>
+      <blockName>1. Claves Primarias y Secundarias</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq0z43w-4lj0ir2j9</odePageId>
+          <odeBlockId>block-1777366827494-oiqlup2x7</odeBlockId>
+          <odeIdeviceId>idevice-1777366827481-pe2hual7n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el diseño de una base de datos es fundamental identificar correctamente cada uno de los datos que se almacenan. Para ello se utilizan las <strong>claves primarias</strong> y las <strong>claves secundarias</strong>, que permiten organizar la información y relacionarla de forma coherente.</p>
+<p>La <strong>clave primaria o principal</strong> es un campo que identifica de manera única cada registro dentro de una tabla. Este valor no se repite y no puede quedar vacío, lo que garantiza que cada elemento registrado sea diferente del resto. Por ejemplo, en una base de datos de una biblioteca, cada libro puede identificarse mediante un código único o un número de registro.</p>
+<p>La <strong>clave secundaria o foránea</strong> es un campo que permite relacionar una tabla con otra, ya que hace referencia a la clave primaria de otra tabla. Gracias a las claves foráneas es posible vincular información, como asociar un préstamo a un libro concreto y a una persona usuaria determinada. El uso correcto de estas claves es esencial para mantener la coherencia y fiabilidad de la base de datos.</p>
+<p><strong><img src="{{context_path}}/content/resources/mceclip0.png" style="display: block; margin-left: auto; margin-right: auto;" /></strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777366827481-pe2hual7n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el diseño de una base de datos es fundamental identificar correctamente cada uno de los datos que se almacenan. Para ello se utilizan las <strong>claves primarias</strong> y las <strong>claves secundarias</strong>, que permiten organizar la información y relacionarla de forma coherente.</p>\n<p>La <strong>clave primaria o principal</strong> es un campo que identifica de manera única cada registro dentro de una tabla. Este valor no se repite y no puede quedar vacío, lo que garantiza que cada elemento registrado sea diferente del resto. Por ejemplo, en una base de datos de una biblioteca, cada libro puede identificarse mediante un código único o un número de registro.</p>\n<p>La <strong>clave secundaria o foránea</strong> es un campo que permite relacionar una tabla con otra, ya que hace referencia a la clave primaria de otra tabla. Gracias a las claves foráneas es posible vincular información, como asociar un préstamo a un libro concreto y a una persona usuaria determinada. El uso correcto de estas claves es esencial para mantener la coherencia y fiabilidad de la base de datos.</p>\n<p><strong><img src=\"{{context_path}}/content/resources/mceclip0.png\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moq0z43w-4lj0ir2j9</odePageId>
+      <odeBlockId>block-1777366964180-85e0aatrj</odeBlockId>
+      <blockName>2. Relación entre tablas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq0z43w-4lj0ir2j9</odePageId>
+          <odeBlockId>block-1777366964180-85e0aatrj</odeBlockId>
+          <odeIdeviceId>idevice-1777366964176-bzy3g6789</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Las <strong>relaciones entre tablas</strong> permiten conectar la información almacenada en distintas tablas de una base de datos relacional. Estas relaciones facilitan el acceso a los datos y evitan la duplicación innecesaria de información.</p>
+<p>Las relaciones más habituales son las<strong> relaciones uno a uno</strong> y las <strong>relaciones uno a muchos</strong>. En el contexto de una biblioteca, una relación uno a muchos permite, por ejemplo, que una persona usuaria pueda realizar varios préstamos, mientras que cada préstamo se corresponde con un único libro en un momento determinado.</p>
+<p>Establecer correctamente las relaciones entre tablas ayuda a organizar mejor la información y a garantizar que los datos se mantengan actualizados. Durante esta sesión, el alumnado analizará ejemplos reales de entornos administrativos para comprender cómo se aplican estas relaciones en situaciones prácticas.</p>
+<p><img src="{{context_path}}/content/resources/mceclip1.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777366964176-bzy3g6789","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Las <strong>relaciones entre tablas</strong> permiten conectar la información almacenada en distintas tablas de una base de datos relacional. Estas relaciones facilitan el acceso a los datos y evitan la duplicación innecesaria de información.</p>\n<p>Las relaciones más habituales son las<strong> relaciones uno a uno</strong> y las <strong>relaciones uno a muchos</strong>. En el contexto de una biblioteca, una relación uno a muchos permite, por ejemplo, que una persona usuaria pueda realizar varios préstamos, mientras que cada préstamo se corresponde con un único libro en un momento determinado.</p>\n<p>Establecer correctamente las relaciones entre tablas ayuda a organizar mejor la información y a garantizar que los datos se mantengan actualizados. Durante esta sesión, el alumnado analizará ejemplos reales de entornos administrativos para comprender cómo se aplican estas relaciones en situaciones prácticas.</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip1.png\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moq0z43w-4lj0ir2j9</odePageId>
+      <odeBlockId>block-1777367052280-ntonsnnnn</odeBlockId>
+      <blockName>3. Normalización básica y diseño de la base de datos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq0z43w-4lj0ir2j9</odePageId>
+          <odeBlockId>block-1777367052280-ntonsnnnn</odeBlockId>
+          <odeIdeviceId>idevice-1777367052276-tlv1ol8sn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La <strong>normalización básica </strong>es un proceso que permite organizar la información de una base de datos de forma eficiente, evitando la repetición de datos y reduciendo posibles errores. Consiste en distribuir la información en distintas tablas relacionadas en lugar de concentrarla en una sola.</p>
+<p><br />Aplicar la normalización básica facilita el mantenimiento de la base de datos y mejora su funcionamiento. En una biblioteca, por ejemplo, los datos de los libros, de las personas usuarias y de los préstamos se almacenan en tablas diferentes, pero relacionadas entre sí.</p>
+<p><br />En esta sesión, el alumnado trabajará en el <strong>diseño de la base de datos del proyecto</strong>, decidiendo qué tablas son necesarias, qué campos debe contener cada una y cómo deben relacionarse. Este diseño servirá como base para la creación de la base de datos en Microsoft Access en las siguientes sesiones.</p>
+<p><img src="{{context_path}}/content/resources/mceclip2.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777367052276-tlv1ol8sn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La <strong>normalización básica </strong>es un proceso que permite organizar la información de una base de datos de forma eficiente, evitando la repetición de datos y reduciendo posibles errores. Consiste en distribuir la información en distintas tablas relacionadas en lugar de concentrarla en una sola.</p>\n<p><br />Aplicar la normalización básica facilita el mantenimiento de la base de datos y mejora su funcionamiento. En una biblioteca, por ejemplo, los datos de los libros, de las personas usuarias y de los préstamos se almacenan en tablas diferentes, pero relacionadas entre sí.</p>\n<p><br />En esta sesión, el alumnado trabajará en el <strong>diseño de la base de datos del proyecto</strong>, decidiendo qué tablas son necesarias, qué campos debe contener cada una y cómo deben relacionarse. Este diseño servirá como base para la creación de la base de datos en Microsoft Access en las siguientes sesiones.</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip2.png\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moq0z43w-4lj0ir2j9</odePageId>
+      <odeBlockId>block-1777629438750-4lnjm6tbc</odeBlockId>
+      <blockName>Relaciona</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq0z43w-4lj0ir2j9</odePageId>
+          <odeBlockId>block-1777629438750-4lnjm6tbc</odeBlockId>
+          <odeIdeviceId>idevice-1777629438747-ib52ov82d</odeIdeviceId>
+          <odeIdeviceTypeName>relate</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="relaciona-IDevice"><div class="relaciona-instructions gameQP-instructions"><p>Relaciona cada tarjeta con su pareja</p>
+<p></p>
+<p><strong>Consejo:</strong> Si necesitas ayuda, revisa el glosario de la sesión o consulta los ejemplos antes de volver a intentarlo.</p></div><div class="relaciona-DataGame js-hidden">{"typeGame":"Relaciona","author":"","randomCards":true,"instructions":"<p>Relaciona cada tarjeta con su pareja</p>\n<p></p>\n<p><strong>Consejo:</strong> Si necesitas ayuda, revisa el glosario de la sesión o consulta los ejemplos antes de volver a intentarlo.</p>","showMinimize":false,"itinerary":{"showClue":false,"clueGame":"","percentageClue":40,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"cardsGame":[{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"Clave%20Primaria","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Identificador%20%C3%BAnico%20de%20cada%20registro%20en%20una%20tabla%20"},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"Clave%20for%C3%A1nea","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Campo%20que%20enlaza%20una%20tabla%20con%20otra"},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"Relaci%C3%B3n%201%20a%20muchos","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Una%20persona%20usuaria%20puede%20tener%20muchos%20pr%C3%A9stamos."},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"Normalizaci%C3%B3n","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Organizar%20datos%20para%20evitar%20duplicidades%20y%20mejorar%20la%20coherencia."}],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"textAfter":"","version":2,"percentajeCards":100,"type":0,"showSolution":true,"timeShowSolution":3,"time":3,"evaluation":false,"evaluationID":"f0a2f22c-0d16-4cc2-bd9a-8242fb8f6b36","id":"idevice-1777629438747-ib52ov82d","msgs":{"msgSubmit":"Enviar","msgClue":"¡Genial! La pista es:","msgCodeAccess":"Código de acceso","msgPlayStart":"Pulsa aquí para jugar","msgScore":"Puntuación","msgErrors":"Errores","msgHits":"Aciertos","msgMinimize":"Minimizar","msgMaximize":"Maximizar","msgFullScreen":"Pantalla Completa","msgExitFullScreen":"Salir del modo pantalla completa","msgNoImage":"Pregunta sin imágenes","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgInformation":"Información","msgYouScore":"Su puntuación","msgAuthor":"Autoría","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgClose":"Cerrar","msgAudio":"Audio","msgNumQuestions":"Número de tarjetas","msgTryAgain":"Necesitas al menos %s% de respuestas correctas para obtener la información. Inténtalo de nuevo.","msgEndGameM":"Has completado el juego. Tu puntuación es %s.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Relaciona","msgCheck":"Comprobar","msgRestart":"Reiniciar"}}</div><div class="game-evaluation-ids js-hidden" data-id="idevice-1777629438747-ib52ov82d" data-evaluationb="false" data-evaluationid="f0a2f22c-0d16-4cc2-bd9a-8242fb8f6b36"></div><div class="relaciona-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moq0z43x-fwgyd48kw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SESIÓN 3: Consulta y formularios. Infografía</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 3: Consulta y formularios. Infografía</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 3: Consulta y formularios. Infografía</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moq0z43x-fwgyd48kw</odePageId>
+      <odeBlockId>block-1777367482075-2z2eek5ir</odeBlockId>
+      <blockName>Objetivos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq0z43x-fwgyd48kw</odePageId>
+          <odeBlockId>block-1777367482075-2z2eek5ir</odeBlockId>
+          <odeIdeviceId>idevice-1777367482061-3k8gk70cd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Comprender la utilidad de las <strong>consultas</strong> para obtener información concreta de una base de datos.</li>
+<li>Aprender a crear <strong>consultas de selección y consultas</strong> con criterios en Microsoft Access.</li>
+<li><strong>Conocer</strong> el uso de los <strong>formularios</strong> como herramienta para introducir y modificar datos de forma eficiente.</li>
+<li><strong>Crear consultas y formularios</strong> vinculados a la base de datos de la biblioteca del centro.</li>
+<li>Iniciar el desarrollo del <strong>Producto final 1: infografía digital</strong>, relacionada con la introducción de nuevos títulos en la base de datos.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777367482061-3k8gk70cd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Comprender la utilidad de las <strong>consultas</strong> para obtener información concreta de una base de datos.</li>\n<li>Aprender a crear <strong>consultas de selección y consultas</strong> con criterios en Microsoft Access.</li>\n<li><strong>Conocer</strong> el uso de los <strong>formularios</strong> como herramienta para introducir y modificar datos de forma eficiente.</li>\n<li><strong>Crear consultas y formularios</strong> vinculados a la base de datos de la biblioteca del centro.</li>\n<li>Iniciar el desarrollo del <strong>Producto final 1: infografía digital</strong>, relacionada con la introducción de nuevos títulos en la base de datos.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moq0z43x-fwgyd48kw</odePageId>
+      <odeBlockId>block-1777367542463-g2ufl8v0t</odeBlockId>
+      <blockName>1. Consultas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq0z43x-fwgyd48kw</odePageId>
+          <odeBlockId>block-1777367542463-g2ufl8v0t</odeBlockId>
+          <odeIdeviceId>idevice-1777367542461-ky9k7n2ay</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Las <strong>consultas</strong> permiten seleccionar y mostrar información específica almacenada en una base de datos, facilitando su análisis y uso en contextos administrativos reales. A través de las consultas es posible filtrar datos, ordenar la información y obtener resultados concretos a partir de uno o varios criterios.</p>
+<p>En esta sesión se trabajarán las <strong>consultas de selección</strong>, que permiten visualizar determinados datos de una o varias tablas, y las <strong>consultas con criterios</strong>, que sirven para filtrar la información según condiciones concretas, como la disponibilidad de libros, autores o fechas. Por ejemplo, una consulta puede mostrar únicamente los libros disponibles en la biblioteca o los préstamos realizados en un periodo determinado.</p>
+<p>El alumnado observará una demostración guiada por parte del docente y, posteriormente, realizará consultas aplicadas a la base de datos de la biblioteca del centro, comprendiendo su utilidad práctica para la gestión de la información.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777367542461-ky9k7n2ay","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Las <strong>consultas</strong> permiten seleccionar y mostrar información específica almacenada en una base de datos, facilitando su análisis y uso en contextos administrativos reales. A través de las consultas es posible filtrar datos, ordenar la información y obtener resultados concretos a partir de uno o varios criterios.</p>\n<p>En esta sesión se trabajarán las <strong>consultas de selección</strong>, que permiten visualizar determinados datos de una o varias tablas, y las <strong>consultas con criterios</strong>, que sirven para filtrar la información según condiciones concretas, como la disponibilidad de libros, autores o fechas. Por ejemplo, una consulta puede mostrar únicamente los libros disponibles en la biblioteca o los préstamos realizados en un periodo determinado.</p>\n<p>El alumnado observará una demostración guiada por parte del docente y, posteriormente, realizará consultas aplicadas a la base de datos de la biblioteca del centro, comprendiendo su utilidad práctica para la gestión de la información.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moq0z43x-fwgyd48kw</odePageId>
+      <odeBlockId>block-1777367588128-fhci9uhbt</odeBlockId>
+      <blockName>2. Formularios</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq0z43x-fwgyd48kw</odePageId>
+          <odeBlockId>block-1777367588128-fhci9uhbt</odeBlockId>
+          <odeIdeviceId>idevice-1777367588125-km9xuesx5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Los <strong>formularios</strong> son una herramienta que facilita la introducción y modificación de datos en una base de datos, ya que presentan la información de forma clara y estructurada, reduciendo errores y agilizando el trabajo.</p>
+<p><br />Durante esta parte de la sesión, el alumnado aprenderá a crear <strong>formularios vinculados a las tablas</strong> de la base de datos de la biblioteca. Estos formularios permitirán introducir nuevos títulos y actualizar la información existente de manera sencilla y ordenada. Tras una explicación inicial y una demostración práctica, cada alumno o alumna diseñará al menos un formulario operativo para su base de datos en Microsoft Access.</p>
+<p><img src="{{context_path}}/content/resources/mceclip3.png" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777367588125-km9xuesx5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Los <strong>formularios</strong> son una herramienta que facilita la introducción y modificación de datos en una base de datos, ya que presentan la información de forma clara y estructurada, reduciendo errores y agilizando el trabajo.</p>\n<p><br />Durante esta parte de la sesión, el alumnado aprenderá a crear <strong>formularios vinculados a las tablas</strong> de la base de datos de la biblioteca. Estos formularios permitirán introducir nuevos títulos y actualizar la información existente de manera sencilla y ordenada. Tras una explicación inicial y una demostración práctica, cada alumno o alumna diseñará al menos un formulario operativo para su base de datos en Microsoft Access.</p>\n<p><img src=\"{{context_path}}/content/resources/mceclip3.png\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moq0z43x-fwgyd48kw</odePageId>
+      <odeBlockId>block-1777367724329-p90ejuysk</odeBlockId>
+      <blockName>Producto final 1. Infografía.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq0z43x-fwgyd48kw</odePageId>
+          <odeBlockId>block-1777367724329-p90ejuysk</odeBlockId>
+          <odeIdeviceId>idevice-1777367724325-dlfsxzpa2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Además del trabajo con consultas y formularios, en esta sesión se <strong>iniciará el desarrollo del Producto final 1</strong>: una <strong>infografía digital</strong>. En ella se explicará, de forma clara y visual, <strong>cómo introducir nuevos títulos en la base de datos de la biblioteca del centro</strong>.</p>
+<p>El alumnado comenzará a planificar el contenido de la infografía, identificando los pasos necesarios para la introducción de datos y organizando la información de manera comprensible. Para su elaboración se utilizará <strong>Canva</strong> u<strong> otra aplicación digital similar</strong> que el alumnado considere adecuada, siempre que permita crear una infografía clara, visual y, preferentemente, con algún elemento interactivo.</p>
+<p>Este trabajo servirá para conectar el uso práctico de Microsoft Access con la comunicación visual de los aprendizajes adquiridos.</p>
+<p>Se <strong>entregará</strong> a la finalización de la<strong> sesión 5 </strong>a través de la tarea de Teams habilitada para tal fin.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777367724325-dlfsxzpa2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Además del trabajo con consultas y formularios, en esta sesión se <strong>iniciará el desarrollo del Producto final 1</strong>: una <strong>infografía digital</strong>. En ella se explicará, de forma clara y visual, <strong>cómo introducir nuevos títulos en la base de datos de la biblioteca del centro</strong>.</p>\n<p>El alumnado comenzará a planificar el contenido de la infografía, identificando los pasos necesarios para la introducción de datos y organizando la información de manera comprensible. Para su elaboración se utilizará <strong>Canva</strong> u<strong> otra aplicación digital similar</strong> que el alumnado considere adecuada, siempre que permita crear una infografía clara, visual y, preferentemente, con algún elemento interactivo.</p>\n<p>Este trabajo servirá para conectar el uso práctico de Microsoft Access con la comunicación visual de los aprendizajes adquiridos.</p>\n<p>Se <strong>entregará</strong> a la finalización de la<strong> sesión 5 </strong>a través de la tarea de Teams habilitada para tal fin.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moq0z43x-fwgyd48kw</odePageId>
+      <odeBlockId>block-1777368027647-uuon7mr92</odeBlockId>
+      <blockName>Rúbrica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq0z43x-fwgyd48kw</odePageId>
+          <odeBlockId>block-1777368027647-uuon7mr92</odeBlockId>
+          <odeIdeviceId>idevice-1777368027642-zlnse73u5</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<table class='exe-table'><caption>Rúbrica de ejemplo (4x4)</caption><thead><tr><th>&nbsp;</th><th>4 Excelente</th><th>3 Satisfactorio</th><th>2 Mejorable</th><th>1 Insuficiente</th></tr></thead><tbody><tr><th>Patrón organizativo</th><td>Están presentes todos los elementos propios de una infografía (título, estructura clara, textos breves, imágenes, fuentes y créditos). La información visual y textual está perfectamente equilibrada. <span>(4)</span></td><td>Están presentes todos los elementos propios de una infografía y la información visual y textual está bastante bien equilibrada. <span>(3)</span></td><td>Falta alguno de los elementos característicos de una infografía y/o no existe un buen equilibrio entre texto e imagen.  <span>(2)</span></td><td>Solo aparecen uno o dos elementos propios de una infografía y la información visual y textual no está equilibrada.  <span>(1)</span></td></tr><tr><th>Diseño visual</th><td>La información está distribuida de forma muy atractiva. Uso armónico de colores, tipografía adecuada y excelente legibilidad. <span>(4)</span></td><td>La información está bien distribuida, con colores adecuados y tipografía legible. <span>(3)</span></td><td>La distribución resulta poco atractiva y/o los colores o la tipografía no son los más adecuados.  <span>(2)</span></td><td>El diseño no resulta atractivo, los colores no son adecuados y la tipografía dificulta la lectura.  <span>(1)</span></td></tr><tr><th>Contenido técnico</th><td>Explica con total claridad todos los pasos necesarios para introducir nuevos títulos en la base de datos de la biblioteca usando Microsoft Access. <span>(4)</span></td><td>Explica de forma clara la mayoría de los pasos necesarios para introducir nuevos títulos en la base de datos.  <span>(3)</span></td><td>Explica solo algunos pasos básicos, faltando información relevante.  <span>(2)</span></td><td>No explica correctamente el proceso de introducción de nuevos títulos en la base de datos.  <span>(1)</span></td></tr><tr><th>Elementos visuales y licencias</th><td>Las imágenes e iconos utilizados son adecuados, tienen licencia CC o son propios, presentan buena calidad y apoyan claramente el contenido. <span>(4)</span></td><td>Las imágenes utilizadas son adecuadas, tienen licencia CC o son propias y apoyan el contenido.  <span>(3)</span></td><td>No todas las imágenes tienen licencia CC y/o no apoyan claramente el contenido. <span>(2)</span></td><td>La mayoría de las imágenes no tienen licencia CC, son inadecuadas o no guardan relación con el contenido. <span>(1)</span></td></tr><tr><th>Corrección lingüística y claridad</th><td>No se observan errores ortográficos ni gramaticales. El lenguaje es claro, inclusivo y adecuado al contexto.  <span>(4)</span></td><td>Aparecen uno o dos errores leves. El lenguaje es comprensible y adecuado.  <span>(3)</span></td><td>Aparecen varios errores ortográficos o gramaticales que dificultan parcialmente la comprensión.  <span>(2)</span></td><td>Presenta numerosos errores que dificultan la comprensión del contenido.  <span>(1)</span></td></tr></tbody></table><ul class="exe-rubrics-strings"><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li></ul>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moq0z43x-fwgyd48kw</odePageId>
+      <odeBlockId>block-1777560749005-fwpa63pad</odeBlockId>
+      <blockName>Vídeos explicativos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq0z43x-fwgyd48kw</odePageId>
+          <odeBlockId>block-1777560749005-fwpa63pad</odeBlockId>
+          <odeIdeviceId>idevice-1777560749002-oz4da4lr3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://www.youtube.com/watch?v=6tkdbLTQZB4" target="_blank" rel="noopener" title="">Vídeo explicativo sobre consultas </a></p>
+<p><br /></p>
+<p><a href="https://www.youtube.com/watch?v=elZzkzYluZE" title="Vídeo explicativo sobre formularios">Vídeo explicativo sobre formularios</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777560749002-oz4da4lr3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://www.youtube.com/watch?v=6tkdbLTQZB4\" target=\"_blank\" rel=\"noopener\" title=\"\">Vídeo explicativo sobre consultas </a></p>\n<p><br /></p>\n<p><a href=\"https://www.youtube.com/watch?v=elZzkzYluZE\" title=\"Vídeo explicativo sobre formularios\">Vídeo explicativo sobre formularios</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moq0z43x-fwgyd48kw</odePageId>
+      <odeBlockId>block-1777628833861-7uqq1crdl</odeBlockId>
+      <blockName>Actividad entregable</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>6</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq0z43x-fwgyd48kw</odePageId>
+          <odeBlockId>block-1777628833861-7uqq1crdl</odeBlockId>
+          <odeIdeviceId>idevice-1777628833858-b2oswqra6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Entregar a través de la tarea que abriré en Teams lo siguiente:</p>
+<p><strong>Tarea:</strong> Crear 2 consultas y 1 formulario,<br /><strong>Entrega:</strong> subir captura + archivo .accdb</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777628833858-b2oswqra6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Entregar a través de la tarea que abriré en Teams lo siguiente:</p>\n<p><strong>Tarea:</strong> Crear 2 consultas y 1 formulario,<br /><strong>Entrega:</strong> subir captura + archivo .accdb</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moq0z43y-reyasj33f</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SESIÓN 4: Informes y Seguridad</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 4: Informes y Seguridad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 4: Informes y Seguridad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moq0z43y-reyasj33f</odePageId>
+      <odeBlockId>block-1777397674056-1nvxb52jy</odeBlockId>
+      <blockName>Objetivos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq0z43y-reyasj33f</odePageId>
+          <odeBlockId>block-1777397674056-1nvxb52jy</odeBlockId>
+          <odeIdeviceId>idevice-1777397674052-gjd5cfym8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li> Comprender la utilidad de los <strong>informes</strong> para presentar información de forma clara y profesional.</li>
+<li>Aprender a crear <strong>informes</strong> en <strong>Microsoft Access</strong> aplicados a la base de datos de la biblioteca del centro.</li>
+<li><strong>Exportar datos</strong> e informes a formatos habituales (<strong>PDF y hoja de cálculo</strong>) según necesidades de gestión.</li>
+<li>Conocer medidas básicas de <strong>seguridad y mantenimiento </strong>para proteger y conservar la base de datos.</li>
+<li>Revisar y finalizar la base de datos del proyecto, comprobando su correcto funcionamiento mediante una <strong>lista de control</strong>.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777397674052-gjd5cfym8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li> Comprender la utilidad de los <strong>informes</strong> para presentar información de forma clara y profesional.</li>\n<li>Aprender a crear <strong>informes</strong> en <strong>Microsoft Access</strong> aplicados a la base de datos de la biblioteca del centro.</li>\n<li><strong>Exportar datos</strong> e informes a formatos habituales (<strong>PDF y hoja de cálculo</strong>) según necesidades de gestión.</li>\n<li>Conocer medidas básicas de <strong>seguridad y mantenimiento </strong>para proteger y conservar la base de datos.</li>\n<li>Revisar y finalizar la base de datos del proyecto, comprobando su correcto funcionamiento mediante una <strong>lista de control</strong>.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moq0z43y-reyasj33f</odePageId>
+      <odeBlockId>block-1777397733882-atnc5mpa7</odeBlockId>
+      <blockName>1. Informes profesionales: para qué sirven y cuándo se usan</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq0z43y-reyasj33f</odePageId>
+          <odeBlockId>block-1777397733882-atnc5mpa7</odeBlockId>
+          <odeIdeviceId>idevice-1777397733880-csayu1svz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Los <strong>informes</strong> son una herramienta que permite presentar información de la base de datos de forma ordenada, clara y con un formato profesional. A diferencia de las tablas (que están pensadas para almacenar datos) o las consultas (que sirven para filtrar y seleccionar información), los informes se utilizan para <strong>mostrar resultados</strong> de manera comprensible, lista para imprimir o compartir.</p>
+<p><br />En el contexto de la biblioteca del centro, un informe puede servir para elaborar listados como: libros disponibles, libros prestados, préstamos por fechas, o registros por categorías. Diseñar informes adecuados mejora la organización y facilita la toma de decisiones, ya que permite disponer de información útil sin necesidad de buscar registro por registro.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777397733880-csayu1svz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Los <strong>informes</strong> son una herramienta que permite presentar información de la base de datos de forma ordenada, clara y con un formato profesional. A diferencia de las tablas (que están pensadas para almacenar datos) o las consultas (que sirven para filtrar y seleccionar información), los informes se utilizan para <strong>mostrar resultados</strong> de manera comprensible, lista para imprimir o compartir.</p>\n<p><br />En el contexto de la biblioteca del centro, un informe puede servir para elaborar listados como: libros disponibles, libros prestados, préstamos por fechas, o registros por categorías. Diseñar informes adecuados mejora la organización y facilita la toma de decisiones, ya que permite disponer de información útil sin necesidad de buscar registro por registro.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moq0z43y-reyasj33f</odePageId>
+      <odeBlockId>block-1777397771615-vu6yzxjtw</odeBlockId>
+      <blockName>2. Creación guiada de informes en Microsoft Access</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq0z43y-reyasj33f</odePageId>
+          <odeBlockId>block-1777397771615-vu6yzxjtw</odeBlockId>
+          <odeIdeviceId>idevice-1777397771613-fitjyi7e0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para crear un informe en Access se parte normalmente de una <strong>tabla o consulta</strong>. Esto permite generar documentos con datos ya filtrados y presentarlos de forma profesional. Durante esta sesión se trabajará la creación de distintos tipos de informes, prestando atención a:</p>
+<ul>
+<li><strong>Estructura</strong> (título, encabezados, secciones y agrupaciones)</li>
+<li><strong>Orden</strong> y <strong>formato</strong> (alineación, tipos de letra, tamaños y márgenes)</li>
+<li><strong>Claridad</strong> (campos relevantes, etiquetas comprensibles y coherencia visual)</li>
+</ul>
+<p>El objetivo es que el alumnado aprenda a generar informes que puedan usarse en una gestión real de la biblioteca, cuidando la presentación y la utilidad del documento.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777397771613-fitjyi7e0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para crear un informe en Access se parte normalmente de una <strong>tabla o consulta</strong>. Esto permite generar documentos con datos ya filtrados y presentarlos de forma profesional. Durante esta sesión se trabajará la creación de distintos tipos de informes, prestando atención a:</p>\n<ul>\n<li><strong>Estructura</strong> (título, encabezados, secciones y agrupaciones)</li>\n<li><strong>Orden</strong> y <strong>formato</strong> (alineación, tipos de letra, tamaños y márgenes)</li>\n<li><strong>Claridad</strong> (campos relevantes, etiquetas comprensibles y coherencia visual)</li>\n</ul>\n<p>El objetivo es que el alumnado aprenda a generar informes que puedan usarse en una gestión real de la biblioteca, cuidando la presentación y la utilidad del documento.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moq0z43y-reyasj33f</odePageId>
+      <odeBlockId>block-1777397866034-sxcemi9mo</odeBlockId>
+      <blockName>3. Exportación de datos: compartir información en otros formatos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq0z43y-reyasj33f</odePageId>
+          <odeBlockId>block-1777397866034-sxcemi9mo</odeBlockId>
+          <odeIdeviceId>idevice-1777397866031-zn9wmeje2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En muchos entornos administrativos es necesario compartir información fuera de Access. Por ello, se trabajará la <strong>exportación</strong> de datos e informes a formatos habituales:</p>
+<ul>
+<li><strong>PDF,</strong> para compartir informes con un formato estable y listo para imprimir.<br /></li>
+<li><strong>Hoja de cálculo</strong>, para trabajar con datos, realizar cálculos o compartir información con otras aplicaciones.</li>
+</ul>
+<p>En esta sesión se explicará cómo exportar correctamente y cómo comprobar que el resultado mantiene el formato y la información necesaria. La exportación es una habilidad muy útil para la comunicación y la gestión documental.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777397866031-zn9wmeje2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En muchos entornos administrativos es necesario compartir información fuera de Access. Por ello, se trabajará la <strong>exportación</strong> de datos e informes a formatos habituales:</p>\n<ul>\n<li><strong>PDF,</strong> para compartir informes con un formato estable y listo para imprimir.<br /></li>\n<li><strong>Hoja de cálculo</strong>, para trabajar con datos, realizar cálculos o compartir información con otras aplicaciones.</li>\n</ul>\n<p>En esta sesión se explicará cómo exportar correctamente y cómo comprobar que el resultado mantiene el formato y la información necesaria. La exportación es una habilidad muy útil para la comunicación y la gestión documental.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moq0z43y-reyasj33f</odePageId>
+      <odeBlockId>block-1777397907365-z9vaa83is</odeBlockId>
+      <blockName>4. Seguridad básica, mantenimiento y cierre del proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq0z43y-reyasj33f</odePageId>
+          <odeBlockId>block-1777397907365-z9vaa83is</odeBlockId>
+          <odeIdeviceId>idevice-1777397907362-if4bo1hpq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Una base de datos contiene información que debe gestionarse con cuidado. Por eso, en esta sesión se abordarán medidas básicas de <strong>seguridad y mantenimiento</strong>, como:</p>
+<ul>
+<li>Realizar <strong>copias de seguridad</strong> periódicas.</li>
+<li>Controlar el acceso al archivo y evitar modificaciones no deseadas.</li>
+<li>Mantener la base de datos <strong>ordenada y coherente</strong>, revisando duplicidades y errores de introducción de datos.</li>
+<li>Verificar que tablas, relaciones, consultas, formularios e informes funcionan correctamente.</li>
+</ul>
+<p>Finalmente, el alumnado realizará una<strong> revisión y finalización </strong>del proyecto utilizando una<strong> lista de control</strong>, comprobando que la base de datos de la biblioteca está completa, funciona correctamente y cumple los requisitos establecidos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777397907362-if4bo1hpq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Una base de datos contiene información que debe gestionarse con cuidado. Por eso, en esta sesión se abordarán medidas básicas de <strong>seguridad y mantenimiento</strong>, como:</p>\n<ul>\n<li>Realizar <strong>copias de seguridad</strong> periódicas.</li>\n<li>Controlar el acceso al archivo y evitar modificaciones no deseadas.</li>\n<li>Mantener la base de datos <strong>ordenada y coherente</strong>, revisando duplicidades y errores de introducción de datos.</li>\n<li>Verificar que tablas, relaciones, consultas, formularios e informes funcionan correctamente.</li>\n</ul>\n<p>Finalmente, el alumnado realizará una<strong> revisión y finalización </strong>del proyecto utilizando una<strong> lista de control</strong>, comprobando que la base de datos de la biblioteca está completa, funciona correctamente y cumple los requisitos establecidos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moq0z43y-reyasj33f</odePageId>
+      <odeBlockId>block-1777628969876-llge58uhc</odeBlockId>
+      <blockName>Tarea entregable</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq0z43y-reyasj33f</odePageId>
+          <odeBlockId>block-1777628969876-llge58uhc</odeBlockId>
+          <odeIdeviceId>idevice-1777628969874-i25mh6fo0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Entregar a través de la tarea que abriré en Teams lo siguiente:</p>
+<p></p>
+<p><strong>Tarea:</strong> Crear 1 informe y exportarlo a PDF.<br /><strong>Entrega:</strong> PDF + captura del informe a través de Teams.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777628969874-i25mh6fo0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Entregar a través de la tarea que abriré en Teams lo siguiente:</p>\n<p></p>\n<p><strong>Tarea:</strong> Crear 1 informe y exportarlo a PDF.<br /><strong>Entrega:</strong> PDF + captura del informe a través de Teams.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moq0z43y-9fc10zvkc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SESIÓN 5: Vídeo y finalizar infografía</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 5: Vídeo y finalizar infografía</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SESIÓN 5: Vídeo y finalizar infografía</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moq0z43y-9fc10zvkc</odePageId>
+      <odeBlockId>block-1777398449110-6s1fhc5rt</odeBlockId>
+      <blockName>Objetivos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq0z43y-9fc10zvkc</odePageId>
+          <odeBlockId>block-1777398449110-6s1fhc5rt</odeBlockId>
+          <odeIdeviceId>idevice-1777398449102-i5jtt8pf8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Finalizar la <strong>infografía interactiva</strong> explicando cómo introducir nuevos títulos en la base de datos de la biblioteca.</li>
+<li>Elaborar un <strong>vídeo</strong> explicando el uso de la base de datos creada en Microsoft Access.</li>
+<li>Aplicar criterios de <strong>comunicación clara </strong>(guion, orden, vocabulario técnico básico y lenguaje inclusivo).</li>
+<li>Mejorar la <strong>competencia digital</strong> mediante la creación y edición de un producto audiovisual.</li>
+<li>Presentar el proyecto al grupo-clase y participar en una <strong>coevaluación</strong> utilizando la rúbrica creada para tal fin.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777398449102-i5jtt8pf8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Finalizar la <strong>infografía interactiva</strong> explicando cómo introducir nuevos títulos en la base de datos de la biblioteca.</li>\n<li>Elaborar un <strong>vídeo</strong> explicando el uso de la base de datos creada en Microsoft Access.</li>\n<li>Aplicar criterios de <strong>comunicación clara </strong>(guion, orden, vocabulario técnico básico y lenguaje inclusivo).</li>\n<li>Mejorar la <strong>competencia digital</strong> mediante la creación y edición de un producto audiovisual.</li>\n<li>Presentar el proyecto al grupo-clase y participar en una <strong>coevaluación</strong> utilizando la rúbrica creada para tal fin.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moq0z43y-9fc10zvkc</odePageId>
+      <odeBlockId>block-1777398600222-qsfroda49</odeBlockId>
+      <blockName>Grabación del vídeo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq0z43y-9fc10zvkc</odePageId>
+          <odeBlockId>block-1777398600222-qsfroda49</odeBlockId>
+          <odeIdeviceId>idevice-1777398600218-b8fj9am1b</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>1) Preparación</strong></p>
+<p>1 - Define qué vas a enseñar: por ejemplo</p>
+<ul>
+<li>Cómo buscar un libro (consulta),</li>
+<li>Cómo introducir un nuevo título (formulario),</li>
+<li>Cómo ver un informe o listado.</li>
+</ul>
+<p>2 - Escribe un guion muy corto <br /></p>
+<p><br /></p>
+<p><strong>2) Grabación </strong></p>
+<p>1 - Abre Microsoft Access y deja preparada la base de datos.</p>
+<p><br />2 - Graba pantalla + voz:</p>
+<ul>
+<li>En Clipchamp: crear vídeo → grabación de pantalla</li>
+<li>En PowerPoint: Insertar → Grabación de pantalla</li>
+<li>En Stream: grabación (si tu centro lo usa)</li>
+</ul>
+<p><span style="text-decoration: underline;">Consejo</span>: incluye 1 consulta + 1 formulario + 1 informe </p>
+<p><br /></p>
+<p><strong>3) Edición </strong></p>
+<ul>
+<li>Recorta silencios y errores.</li>
+<li>Añade título inicial (p. ej., “Uso de la base de datos de la biblioteca”).</li>
+<li>Añade subtítulos si puedes (recomendado por accesibilidad/DUA).</li>
+<li>Guarda el vídeo en MP4.</li>
+</ul>
+<p><br /></p>
+<p><strong>4) Entrega </strong></p>
+<p>Sube el archivo a Teams<br />Nombra el archivo así:<br />VIDEO_Biblioteca_Access_NombreApellidos.mp4</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777398600218-b8fj9am1b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>1) Preparación</strong></p>\n<p>1 - Define qué vas a enseñar: por ejemplo</p>\n<ul>\n<li>Cómo buscar un libro (consulta),</li>\n<li>Cómo introducir un nuevo título (formulario),</li>\n<li>Cómo ver un informe o listado.</li>\n</ul>\n<p>2 - Escribe un guion muy corto <br /></p>\n<p><br /></p>\n<p><strong>2) Grabación </strong></p>\n<p>1 - Abre Microsoft Access y deja preparada la base de datos.</p>\n<p><br />2 - Graba pantalla + voz:</p>\n<ul>\n<li>En Clipchamp: crear vídeo → grabación de pantalla</li>\n<li>En PowerPoint: Insertar → Grabación de pantalla</li>\n<li>En Stream: grabación (si tu centro lo usa)</li>\n</ul>\n<p><span style=\"text-decoration: underline;\">Consejo</span>: incluye 1 consulta + 1 formulario + 1 informe </p>\n<p><br /></p>\n<p><strong>3) Edición </strong></p>\n<ul>\n<li>Recorta silencios y errores.</li>\n<li>Añade título inicial (p. ej., “Uso de la base de datos de la biblioteca”).</li>\n<li>Añade subtítulos si puedes (recomendado por accesibilidad/DUA).</li>\n<li>Guarda el vídeo en MP4.</li>\n</ul>\n<p><br /></p>\n<p><strong>4) Entrega </strong></p>\n<p>Sube el archivo a Teams<br />Nombra el archivo así:<br />VIDEO_Biblioteca_Access_NombreApellidos.mp4</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moq0z43y-9fc10zvkc</odePageId>
+      <odeBlockId>block-1777560176170-h6gfye9ij</odeBlockId>
+      <blockName>Rúbrica del vídeo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq0z43y-9fc10zvkc</odePageId>
+          <odeBlockId>block-1777560176170-h6gfye9ij</odeBlockId>
+          <odeIdeviceId>idevice-1777560176168-yygrcvfvd</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<table class='exe-table'><caption>Rúbrica para evaluar un informe escrito y gráfico</caption><thead><tr><th>&nbsp;</th><th>4 Excelente</th><th>3 Satisfactorio</th><th>2 Mejorable</th><th>1 Insuficiente</th></tr></thead><tbody><tr><th>Contenido del vídeo. uso de la Base de Datos</th><td>Explica con claridad y detalle el uso de la base de datos (al menos consulta, formulario y/o informe) y su utilidad en la biblioteca.  <span>(4)</span></td><td>Explica el uso de la base de datos de forma clara, aunque con menos detalle o faltando algún elemento.  <span>(3)</span></td><td>Explica el uso de forma parcial; faltan pasos importantes o se entiende con dificultad.  <span>(2)</span></td><td>El contenido es mínimo, confuso o no explica el uso real de la base de datos. <span>(1)</span></td></tr><tr><th>Organización y guion</th><td>Presentación muy ordenada (inicio–desarrollo–cierre), con guion claro y pasos bien secuenciados. <span>(4)</span></td><td>Estructura clara en general, con algún salto o parte poco conectada. <span>(3)</span></td><td>Estructura poco clara; faltan pasos o el orden confunde.  <span>(2)</span></td><td>No hay estructura; el vídeo es improvisado y difícil de seguir. <span>(1)</span></td></tr><tr><th>Demostración práctica en Access</th><td>Se muestra correctamente el manejo de Access (pantalla clara, acciones correctas y explicación coherente).  <span>(4)</span></td><td>Se muestra el manejo de Access con pequeños fallos o explicaciones mejorables.  <span>(3)</span></td><td>La demostración es incompleta o con errores que dificultan comprender el proceso.  <span>(2)</span></td><td>Apenas se demuestra el uso de Access o hay errores graves. <span>(1)</span></td></tr><tr><th>Calidad técnica (audio y vídeo)</th><td>Audio nítido, volumen adecuado, imagen/pantalla legible, sin ruidos ni cortes molestos.  <span>(4)</span></td><td>Calidad correcta con algún detalle mejorable (volumen, iluminación o pequeños cortes).  <span>(3)</span></td><td>Problemas frecuentes de audio o imagen que dificultan seguir el vídeo.  <span>(2)</span></td><td>Audio o imagen muy deficientes; no se entiende el contenido.  <span>(1)</span></td></tr><tr><th>Lenguaje y comunicación (incluye inclusivo)</th><td>Lenguaje claro, adecuado y inclusivo; vocabulario técnico básico bien usado; tono seguro.  <span>(4)</span></td><td>Lenguaje comprensible y adecuado, con algún error o poca precisión.  <span>(3)</span></td><td>Vocabulario poco adecuado o explicación confusa; varios errores. <span>(2)</span></td><td>Lenguaje inapropiado o muy confuso; dificulta totalmente la comprensión.  <span>(1)</span></td></tr><tr><th>Edición y presentación final</th><td>Incluye título y edición cuidada (recortes, transiciones simples); duración ajustada; opcionalmente subtítulos. <span>(4)</span></td><td>Edición básica correcta; duración razonable; presentación aceptable.  <span>(3)</span></td><td>Edición pobre o duración poco ajustada; presentación mejorable.  <span>(2)</span></td><td>Sin edición; duración inadecuada; presentación descuidada. <span>(1)</span></td></tr></tbody></table><p class="exe-rubrics-authorship"><a href="http://cedec.intef.es/" target="_blank" class="author" rel="noopener">CEDEC</a>. <span class="title"><em>Rúbrica para evaluar un informe escrito y gráfico</em></span> <span class="license">(<a href="https://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons CC-BY-SA">CC BY-SA</a>)</span></p><ul class="exe-rubrics-strings"><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li></ul>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moq0z43z-h7jeztbhz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descargar EXE</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descargar EXE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descargar EXE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moq0z43z-h7jeztbhz</odePageId>
+      <odeBlockId>block-1777395995207-bxvxf6rh1</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moq0z43z-h7jeztbhz</odePageId>
+          <odeBlockId>block-1777395995207-bxvxf6rh1</odeBlockId>
+          <odeIdeviceId>idevice-1777395995203-5nrodckfq</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Curso Competencia Digital Docente B2</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Plantilla para elaborar una SdA para el alumno del Curso de Competencia Digital Docente B2. Bases de Datos - M.Access.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Antonio Alonso Valdés</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
